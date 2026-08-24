@@ -23,3 +23,10 @@ Saya saat ini berada di semester 5 di prodi Informatika, Fakultas Teknologi Indu
 Saya juga mengikuti program Asah led by Dicoding pada tahun 2026.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-dzaky-rabbani-042184388/)ku ya.
+
+<p align="left">
+<a href="https://github.com/dzakyrayxhi">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dzakyrayxhi&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dzakyrayxhi&layout=compact&theme=algolia"/>
+</a>
+</p>
