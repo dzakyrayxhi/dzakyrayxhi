@@ -1,4 +1,4 @@
-## Hi there 👋
+## Halo Semua 👋
 
 <!--
 **dzakyrayxhi/dzakyrayxhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Perkenalkan nama saya **Muhammad Dzaky Rabbani**.<br>
+
+Saya seorang **Mahasiswa** di [Universitas Gunadarma](https://www.gunadarma.ac.id/).<br>
+
+Saya saat ini berada di semester 5 di prodi Informatika, Fakultas Teknologi Industri<br>
+
+Saya juga mengikuti program Asah led by Dicoding pada tahun 2026.<br>
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-dzaky-rabbani-042184388/)ku ya.
